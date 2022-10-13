@@ -1,0 +1,29 @@
+# This workflow updates the mess menu once a week. This is still WIP
+#
+name: Update Mess Menu
+
+on:
+  workflow_dispatch: 
+  schedule:
+  - cron: '1 * * * *'
+
+jobs:
+  update_mess:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Checkout Backend Repository
+        uses: actions/checkout@v3
+        with:
+          repository: LambdaIITH/iith-dashboard-backend
+      - name: Run Mess Script 
+        run: python3 iith-dashboard-backend/bus-menu-scripts/mess.py
+      - name: Copy it into correct places
+        run: 
+          cp mess.json ../public/dining.json
+          cp mess.json ../public/dining
+          cp mess.json ../public/v2/dining
+          cp mess.json ../public/v2/dining.json
+      - name: Commit and Deploy
+        run : echo "Hello!"
