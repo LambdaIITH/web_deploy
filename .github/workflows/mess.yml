@@ -3,9 +3,10 @@
 name: Update Mess Menu
 
 on:
-  workflow_dispatch: 
   schedule:
   - cron: '1 * * * *'
+  push:
+  workflow_dispatch: 
 
 jobs:
   update_mess:
