@@ -82,13 +82,16 @@ export default function SubmitGuesses() {
 
       setClickedOnSubmit((prev) => !prev);
 
-      setAnswered((answered) => {
-        return [
-          ...answered.slice(0, questionIndex),
-          true,
-          ...answered.slice(questionIndex + 1),
-        ];
-      });
+      const updatedAnswered = [...answered];
+      updatedAnswered[questionIndex] = true;
+      setAnswered(updatedAnswered);
+      // setAnswered((answered) => {
+      //   return [
+      //     ...answered.slice(0, questionIndex),
+      //     true,
+      //     ...answered.slice(questionIndex + 1),
+      //   ];
+      // });
 
       const endpoint = "/api/post";
 
@@ -107,9 +110,6 @@ export default function SubmitGuesses() {
       };
 
       try {
-        const updatedAnswered = [...answered];
-        updatedAnswered[questionIndex] = true;
-        setAnswered(updatedAnswered);
         const response = await fetch(endpoint, options);
       } catch (error) {
         console.error("Error submitting answer:", error);
