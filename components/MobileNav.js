@@ -7,6 +7,7 @@ const navbarLinks = [
   { title: "Blog", href: "/blog" },
   { title: "Projects", href: "/projects" },
   { title: "Team", href: "/team" },
+  { title: "Orientation", href: "/orientation"},
 ];
 
 export default function MobileNav() {
