@@ -80,7 +80,7 @@ export default function SubmitGuesses() {
 		      r.answer = answer;
 		      return r;
 	      }
-      };
+      });
       setData1(new_data1);
 
       const updatedAnswered = [...answered];
