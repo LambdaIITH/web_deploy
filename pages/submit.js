@@ -39,7 +39,7 @@ export default function SubmitGuesses() {
     }
   }
 
-  useEffect(() => { 
+  useEffect(() => {
     console.log(answered);
   }, answered);
 
@@ -107,14 +107,10 @@ export default function SubmitGuesses() {
       };
 
       try {
+        const updatedAnswered = [...answered];
+        updatedAnswered[questionIndex] = true;
+        setAnswered(updatedAnswered);
         const response = await fetch(endpoint, options);
-        if (response.ok) {
-          const updatedAnswered = [...answered];
-          updatedAnswered[questionIndex] = true;
-          setAnswered(updatedAnswered);
-        } else {
-          console.error("Failed to submit answer");
-        }
       } catch (error) {
         console.error("Error submitting answer:", error);
       }
@@ -152,6 +148,7 @@ export default function SubmitGuesses() {
                         />
                         <button
                           type="button"
+                          disabled={answered[i]}
                           className="px-4 py-2 bg-neutral-900 dark:text-gray-50/80 rounded-3xl mt-2"
                           onClick={() => uploadAnswer(i, questions[i])}
                         >
