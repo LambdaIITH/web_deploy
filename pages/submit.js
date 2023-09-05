@@ -27,6 +27,7 @@ export default function SubmitGuesses() {
       const response = await fetch(getpoint, options1);
       if (response.ok) {
         let data1 = await response.json();
+        console.log("data1", data1);
         setData1(data1);
         console.log("Data1  from get answers", data1);
       } else {
@@ -46,7 +47,6 @@ export default function SubmitGuesses() {
       router.push("/orientation");
     }
     if (session && router.isReady) {
-      console.log("data1 from use effect", data1);
       getanswers();
     }
   }, [router, session]);
@@ -57,7 +57,6 @@ export default function SubmitGuesses() {
       a[data1[answ].questionIndex] = true;
     }
     setAnswered(a);
-    console.log(questions);
   }, [data1]);
 
   async function uploadAnswer(questionIndex, answer) {
@@ -74,13 +73,7 @@ export default function SubmitGuesses() {
         return;
       }
 
-      const new_data1 = data1.map((o) => {
-	      if (o.questionIndex == questionIndex) {
-		      let r = {...o};
-		      r.answer = answer;
-		      return r;
-	      }
-      });
+      const new_data1 = [...data1, { questionIndex, answer }];
       setData1(new_data1);
 
       const updatedAnswered = [...answered];
