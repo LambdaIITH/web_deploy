@@ -10,11 +10,9 @@ const QUESTION_COUNT = 7;
 
 export default function SubmitGuesses() {
   const [questions, setQuestions] = useState(Array(QUESTION_COUNT).fill(""));
-  const [try1, setTry1] = useState([""]);
   const [answered, setAnswered] = useState(Array(QUESTION_COUNT).fill(false));
   const [data1, setData1] = useState([]);
   const { data: session } = useSession();
-  const [clickedOnSubmit, setClickedOnSubmit] = useState(false);
   const router = useRouter();
 
   async function getanswers() {
@@ -51,11 +49,7 @@ export default function SubmitGuesses() {
       console.log("data1 from use effect", data1);
       getanswers();
     }
-  }, [router, session, clickedOnSubmit]);
-
-  useEffect(() => {
-    setTry1((prev) => [...prev, ""]);
-  }, [clickedOnSubmit]);
+  }, [router, session]);
 
   useEffect(() => {
     const a = Array(QUESTION_COUNT).fill(false);
@@ -64,7 +58,7 @@ export default function SubmitGuesses() {
     }
     setAnswered(a);
     console.log(questions);
-  }, [data1, clickedOnSubmit]);
+  }, [data1]);
 
   async function uploadAnswer(questionIndex, answer) {
     if (!session) {
@@ -80,18 +74,18 @@ export default function SubmitGuesses() {
         return;
       }
 
-      setClickedOnSubmit((prev) => !prev);
+      const new_data1 = data1.map((o) => {
+	      if (o.questionIndex == questionIndex) {
+		      let r = {...o};
+		      r.answer = answer;
+		      return r;
+	      }
+      };
+      setData1(new_data1);
 
       const updatedAnswered = [...answered];
       updatedAnswered[questionIndex] = true;
       setAnswered(updatedAnswered);
-      // setAnswered((answered) => {
-      //   return [
-      //     ...answered.slice(0, questionIndex),
-      //     true,
-      //     ...answered.slice(questionIndex + 1),
-      //   ];
-      // });
 
       const endpoint = "/api/post";
 
@@ -125,7 +119,7 @@ export default function SubmitGuesses() {
       <Container>
         <>
           <div className="mb-10 content-center">
-            {try1.length > 0 &&
+            {
               questions.map((question, i) => {
                 if (i > 6) return;
                 return (
@@ -167,7 +161,8 @@ export default function SubmitGuesses() {
                     )}
                   </div>
                 );
-              })}
+              })
+	    }
           </div>
         </>
       </Container>
