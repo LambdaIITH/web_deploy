@@ -1,7 +1,7 @@
 ---
-title: "Captures - May'23 Edition"
+title: "Captures - Edition 0"
 excerpt: "Lambda IITH is thrilled to present Captures - The Lambda Newsletter, specifically crafted for Dev Enthusiasts, containing insights into the most recent releases, updates, and advancements across the tech landscape. Read now to know about the current affairs that are shaping our industry."
-coverImage: "/static/images/blog/newsletter/1.webp"
+coverImage: "/static/images/blog/newsletter/0.webp"
 date: "2023-06-14T05:35:07.322Z"
 author:
   name: Lambda IITH
@@ -11,7 +11,7 @@ ogImage:
 duration: 6
 ---
 
-Welcome to the May edition of our newsletter! As the tech world continues to evolve at a rapid pace, we're here to keep you updated with the latest releases, updates, and exciting developments. From new versions of popular frameworks to significant updates in programming languages and tools, we have a abundance of information ready to be shared with you. So grab a cup of coffee and let's dive into the world of tech!
+Welcome to the first edition of our newsletter! As the tech world continues to evolve at a rapid pace, we're here to keep you updated with the latest releases, updates, and exciting developments. From new versions of popular frameworks to significant updates in programming languages and tools, we have a abundance of information ready to be shared with you. So grab a cup of coffee and let's dive into the world of tech!
 
 ### Next.js Version 13.4 Released
 - The latest release of Next.js introduces the stable release of the **App Router** feature. This update brings **simplified Data Fetching** and **Built-in SEO Support**, among other enhancements.
