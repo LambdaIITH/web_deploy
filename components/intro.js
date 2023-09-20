@@ -46,7 +46,7 @@ export default function Intro() {
         </span>
       </h1>
       <h4 className="text-slate-300 text-right mt-5 md:pl-8 w-120">
-        <span className="text-slate-300 italic text-lg">Dream. Develop. Do</span><br></br>We are the software development club of IITH.<br></br> We build solutions and help others to do the same<br></br>Read below to know more about our work</h4>
+        <span className="text-slate-100 italic text-lg">Dream. Develop. Do</span><br></br>We are the software development club of IITH.<br></br> We build solutions and help others to do the same<br></br>Read below to know more about our work</h4>
     </section>
   )
 }
