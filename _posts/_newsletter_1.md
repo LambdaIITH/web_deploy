@@ -99,3 +99,5 @@ Lambda is thrilled to <strong>finally</strong> announce the beta release of cab 
 - You can choose to leave or unrequest a cab at any time.
 - The owner of cab can also choose to remove any passenger from their cab at any time.
 You can access the cab sharing website <a href="https://cabsharing.iith.dev/" target="_blank">here</a>. Feel free to use it and give us your feedback by mailing us at lambda@iith.ac.in
+
+\-> Lookout for **Hacktoberfest** and our next session on **Git**. 
