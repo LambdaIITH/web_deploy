@@ -23,7 +23,7 @@ Welcome to the second edition of our newsletter! As the tech world continues to 
 - From July 1, 2023, Reddit started charging developers $0.24 per 1,000 API requests and $12,000 per 50 million API requests, read more about API charges <a href="https://www.techtarget.com/whatis/feature/Reddit-pricing-API-charge-explained#:~:text=Reddit's%20stated%20reason%20for%20the,the%20second%20half%20of%202" target="_blank">here</a>.
 - The price changes have caused the third-party clients like Apollo and Rif to shut down.
 - Latest Release of Relay will allow users to see their average daily reddit API calls and work out their monthly subscription fee. The app will be free for now, but is expected to move to a subscription model in coming weeks.
-- Read more about Relay at: <a href="https://www.reddit.com/r/RelayForReddit/comments/14n876v/update_relay_will_continue_to_operate_from_july/" target="_blank">https://www.reddit.com/r/RelayForReddit/comments/14n876v/update_relay_will_continue_to_operate_from_july/</a>
+- Read more about Relay at: <a href="https://www.reddit.com/r/RelayForReddit/comments/14n876v/update_relay_will_continue_to_operate_from_july/" target="_blank">Link</a>
 
 
 ### Stack Overflow banning and adopting AI at the same time (ChatGPT)
@@ -32,7 +32,7 @@ Welcome to the second edition of our newsletter! As the tech world continues to 
 - Stackoverflow AI is an AI that can answer questions on Stack Overflow. It is trained on 180 million questions and answers from Stack Overflow. The users are not happy with this as their ability to post answers/comments on Stack Overflow. In fact, Stack overflow has <strong>lost 35% of its traffic</strong> in the past 1.5 years.
 - Users also can’t post answers from ChatGPT or other LLMs on Stack Overflow according to the site’s management, citing "<strong>the posting of answers created by ChatGPT and other generative AI technologies is substantially harmful to the site and to users who are asking questions and looking for correct answers</strong>"
 - Users are not happy as they find ChatGPT more convenient which resulted in reduced traffic on stack overflow.
-- Read why stack overflow banned GPT: <a href="https://stackoverflow.com/help/gpt-policy" target="_blank">https://stackoverflow.com/help/gpt-policy</a> and <a href="https://meta.stackoverflow.com/questions/421831/temporary-policy-generative-ai-e-g-chatgpt-is-banned" target="_blank">here</a>
+- Read why stack overflow banned GPT: <a href="https://stackoverflow.com/help/gpt-policy" target="_blank">here</a> and <a href="https://meta.stackoverflow.com/questions/421831/temporary-policy-generative-ai-e-g-chatgpt-is-banned" target="_blank">here</a>
 
 ### JetBrains on Wayland
 For IntelliJ-based IDEs, JetBrains has announced that it will be dropping X11 support in favor of Wayland. This will allow JetBrains to provide a better user experience for Linux users. 
@@ -59,12 +59,12 @@ Svelte 4 has been released, primarily as a maintenance update, paving the way fo
 ### Use of Python in Excel!
 - Microsoft has released a public preview of Python in Excel which allows you to combine Python and Excel analytics without any setup required.
 - You can write Python directly in a cell and your results will appear in the worksheet, including plots and visualizations.
-- Know more this: <a href="https://www.anaconda.com/blog/announcing-python-in-excel-next-level-data-analysis-for-all" target="_blank">https://www.anaconda.com/blog/announcing-python-in-excel-next-level-data-analysis-for-all</a>
+- Know more this: <a href="https://www.anaconda.com/blog/announcing-python-in-excel-next-level-data-analysis-for-all" target="_blank">Link</a>
 
 
 ### Python PEP 0703 is making GIL optional
 - Global interpreter lock or “GIL” was considered as an obstacle to the speed of executing the python and as a result PEP is making it removable.
-- Read more here: <a href="https://peps.python.org/pep-0703/" target="_blank">https://peps.python.org/pep-0703/</a>
+- Read more here: <a href="https://peps.python.org/pep-0703/" target="_blank">Link</a>
 
 ### Squarespace buys Google Domains
 - On June 15, 2023, Squarespace bought Google Domains and its associated assets.
@@ -84,7 +84,7 @@ Micorsoft announced that Visual Studio (not Visual Studio Code) will no longer b
 ### PyPI makes the use of 2FA mandatory for all software publishers
 - All users who are maintaining a project must have set up two factor authentication.
 - This is implemented as a effort to increase security.
-- How to set up: <a href="https://pypi.org/help/#twofa" target="_blank">https://pypi.org/help/#twofa</a> 
+- How to set up: <a href="https://pypi.org/help/#twofa" target="_blank">Link</a> 
 
 
 
