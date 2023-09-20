@@ -2,12 +2,12 @@
 title: "Captures - Edition 1"
 excerpt: "Lambda IITH is thrilled to present Captures - The Lambda Newsletter, specifically crafted for Dev Enthusiasts, containing insights into the most recent releases, updates, and advancements across the tech landscape. Read now to know about the current affairs that are shaping our industry."
 coverImage: "/static/images/blog/newsletter/1.png"
-date: "2023-09-11T05:35:07.322Z"
+date: "2023-09-19T05:35:07.322Z"
 author:
   name: Lambda IITH
   picture: "/assets/blog/authors/joe.jpeg"
 ogImage:
-  url: "/assets/blog/newsletter/1.webp"
+  url: "/assets/blog/newsletter/1.png"
 duration: 6
 ---
 
@@ -38,6 +38,9 @@ Welcome to the second edition of our newsletter! As the tech world continues to 
 For IntelliJ-based IDEs, JetBrains has announced that it will be dropping X11 support in favor of Wayland. This will allow JetBrains to provide a better user experience for Linux users. 
 - This update will solve the age-old fractional-scaling issue, read more about this update [here](https://blog.jetbrains.com/platform/2023/08/wayland-support/)
 
+### Hacktoberfest 2023
+- Hacktoberfest is a month-long celebration of open source software run by DigitalOcean in partnership with GitHub and other companies. Hacktoberfest is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or company of any size, you can help drive growth of open source and make positive contributions to an ever-growing community.
+- It will be held from October 1 to October 31, 2023. Read more about it [here](https://hacktoberfest.com/)
 
 ### X replaces the iconic bird logo
 - Musk changed the iconic twitter logo to “X” in late July after changing the company name to X in April 2023.
@@ -95,3 +98,4 @@ Lambda is thrilled to <strong>finally</strong> announce the beta release of cab 
 - The request for any cab goes by mail to the owner of the cab, and the owner can choose to accept or reject the request.
 - You can choose to leave or unrequest a cab at any time.
 - The owner of cab can also choose to remove any passenger from their cab at any time.
+You can access the cab sharing website [here](https://cabsharing.iith.dev/). Feel free to use it and give us your feedback by mailing us at lambda@iith.ac.in
