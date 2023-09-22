@@ -16,7 +16,7 @@ Welcome to the second edition of our newsletter! As the tech world continues to 
 ### Release of Apple Vision Pro
 - Vision Pro uses spatial computing which smoothly fuses reality and digital content to provide users a wholly immersive experience.
 - VisionOS is the Apple’s first spatial operating system which powers Vision Pro. You can use existing frameworks like SwiftUI, RealityKit, ARKit to make compatible apps for VisionOS.
-- Read more here: <a href="https://developer.apple.com/documentation/visionos" target="_blank">https://developer.apple.com/documentation/visionos</a>
+- Read more here: <a href="https://developer.apple.com/documentation/visionos" target="_blank">Link</a>
 
 ### Reddit Started charging for APIs
 - Reddit raised API prices to stop tech companies from scraping for AI training data for free.
@@ -69,7 +69,7 @@ Svelte 4 has been released, primarily as a maintenance update, paving the way fo
 ### Squarespace buys Google Domains
 - On June 15, 2023, Squarespace bought Google Domains and its associated assets.
 - After the completion of transaction, customers’ domain account will be owned and managed by Squarespace.
-- Read more about the transition <a href="https://support.google.com/domains/answer/13689670?hl=en#zippy=" target="_blank">here</a> [here].
+- Read more about the transition <a href="https://support.google.com/domains/answer/13689670?hl=en#zippy=" target="_blank">here</a>.
 
 ### Google shuts down Grasshopper
 - Google announced that it will be shutting down Grasshopper on June 15, 2023.
@@ -79,7 +79,7 @@ Svelte 4 has been released, primarily as a maintenance update, paving the way fo
 ### Visual Studio not on Mac anymore
 Micorsoft announced that Visual Studio (not Visual Studio Code) will no longer be supported on Mac starting August 31st, 2024. Instead, they will be focusing on Visual Studio Code.
 - Mac users can still use the recently announced C# Dev Kit, .NET MAUI extensions on VS Code instead of Visual Studio.
-- Read more about this announcement <a href="https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-retirement-announcement/" target="_blank">here</a> [here]
+- Read more about this announcement <a href="https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-retirement-announcement/" target="_blank">here</a>
 
 ### PyPI makes the use of 2FA mandatory for all software publishers
 - All users who are maintaining a project must have set up two factor authentication.
