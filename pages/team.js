@@ -291,7 +291,7 @@ const people = [
       githubUsername: "ajaykrshna",
     },
     {
-      name: "Adhtith T",
+      name: "Adhith T",
       githubUsername: "adhitht",
     },
     {
