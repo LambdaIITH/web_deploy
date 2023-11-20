@@ -2,7 +2,7 @@
     "LDH": {
         "Sunday": {
             "Breakfast": [
-                "Aloo paratha",
+                "(mix veg / methi ) paratha",
                 "Pudina chutney",
                 "Curd",
                 "Butter (limited quantity)",
@@ -20,15 +20,15 @@
                 "Ghee",
                 "Plain roti",
                 "Masoor dal",
-                "Radish sambar",
+                "Kerala onion sambar",
                 "Kadi pakoda",
-                "Tindora fry",
+                "Aloo-methi",
                 "Gongura",
                 "Rice",
                 "100ml curd",
                 "Papad/fryums (2/3 types alternating)",
-                "Fresh chutney",
-                "Green salad (cucumber/beetroot+chilli+tomato+onion+lemon+carrot)"
+                "Instant pickles",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ],
             "Snacks": [
                 "Plain tea",
@@ -38,75 +38,25 @@
                 "Plain roti",
                 "Rajma",
                 "Mirch ka salan (add-on for biryani)",
-                "Mix-veg kadai",
+                "Veg korma",
                 "Lemon coriander rasam",
-                "Chicken/paneer dum  biryani   (200gm chicken/100gm paneer)",
+                "Chicken/paneer dum   biryani   (200gm chicken/100gm paneer)",
                 "Onion raita",
                 "Gongura-green chilly",
                 "Rice",
                 "Buttermilk",
                 "Papad/fryums (2/3 types alternating)",
-                "Instant pickle",
-                "Green salad (cucumber/beetroor+chilli+tomato+onion+lemon+carrot)"
+                "Fresh chutneys",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ]
         },
         "Monday": {
             "Breakfast": [
-                "Ragi idli",
-                "Plain idli",
-                "Peanut chutney &   sambar",
+                "Fried idli",
+                "Idli",
+                "Coconut chutney  sambar",
                 "Ginger chutney",
-                "Kandi podi",
-                "Boost",
-                "Boiled chana",
-                "Milk",
-                "Tea & coffee",
-                "Bread",
-                "Jam & amul butter",
-                "50 gms of (boiled chana/ peanuts/ sprouts) and 25gms of (corn Flakes/oats)",
-                "1 boiled egg (except on wed)  / single egg omelet (only on wed) / banana"
-            ],
-            "Lunch": [
-                "Ghee",
-                "Plain roti",
-                "Dal makani",
-                "Mor kulambu",
-                "Bhindi",
-                "Parwal-alu",
-                "Orange",
-                "Mango/avakay",
-                "Rice",
-                "100ml curd",
-                "Papad/fryums (2/3 types alternating)",
-                "Fresh chutney",
-                "Green salad (cucumber/beetroot+chilli+tomato+onion+lemon+carrot)"
-            ],
-            "Snacks": [
-                "Plain tea",
-                "Elaichi tea",
-                "Plain tea",
-                "Ginger tea"
-            ],
-            "Dinner": [
-                "Ghee",
-                "Plain roti",
-                "Dal panchmahal",
-                "Soya chilly (dry)",
-                "Lobia (black eyed peas)",
-                "Drumstick rasam",
-                "Lassi  (buttermilk replacement)",
-                "Tomato",
-                "Rice",
-                "Buttermilk",
-                "Papad/fryums (2/3 types alternating)",
-                "Instant pickle",
-                "Green salad (cucumber/beetroor+chilli+tomato+onion+lemon+carrot)"
-            ]
-        },
-        "Tuesday": {
-            "Breakfast": [
-                "Poori",
-                "Aloo white chana",
+                "Palli podi",
                 "Horlicks (classic)",
                 "Boiled green gram",
                 "Milk",
@@ -119,16 +69,67 @@
             "Lunch": [
                 "Ghee",
                 "Plain roti",
-                "Dal tadka",
-                "Besan sambar",
-                "Malai / hariyali kofta (alternation)",
-                "Thotakura fry (with onions, green chilly, garlic)",
+                "Dal makani",
+                "Mor kulambu",
+                "Fresh green matar - alu",
+                "Simple bhindi fry",
+                "Orange",
+                "Mango/avakay",
+                "Rice",
+                "100ml curd",
+                "Papad/fryums (2/3 types alternating)",
+                "Instant pickles",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
+            ],
+            "Snacks": [
+                "Plain tea",
+                "Elaichi tea",
+                "Plain tea",
+                "Ginger tea"
+            ],
+            "Dinner": [
+                "Ghee",
+                "Plain roti",
+                "Channa dal fry",
+                "Soya bean fry",
+                "Lobia (black eyed peas)",
+                "Drumstick rasam",
+                "Lassi  (buttermilk replacement)",
+                "Tomato",
+                "Rice",
+                "Buttermilk",
+                "Papad/fryums (2/3 types alternating)",
+                "Fresh chutneys",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
+            ]
+        },
+        "Tuesday": {
+            "Breakfast": [
+                "Poori",
+                "White peas curry",
+                "Addon(onions)",
+                "Boost",
+                "Boiled chana",
+                "Milk",
+                "Tea & coffee",
+                "Bread",
+                "Jam & amul butter",
+                "50 gms of (boiled chana/ peanuts/ sprouts) and 25gms of (corn Flakes/oats)",
+                "1 boiled egg (except on wed)  / single egg omelet (only on wed) / banana"
+            ],
+            "Lunch": [
+                "Ghee",
+                "Plain roti",
+                "Lasooni dal tadka",
+                "Radish sambar",
+                "Keerai kootu",
+                "Aloo 65",
                 "Ginger",
                 "Rice",
                 "100ml curd",
                 "Papad/fryums (2/3 types alternating)",
-                "Fresh chutney",
-                "Green salad (cucumber/beetroot+chilli+tomato+onion+lemon+carrot)"
+                "Instant pickles",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ],
             "Snacks": [
                 "Plain tea",
@@ -139,26 +140,26 @@
             "Dinner": [
                 "Ghee",
                 "Plain roti",
-                "Gongura dal",
-                "Bitterguard fry",
-                "Alu palak",
+                "Dal panchmahal",
+                "Aloo methi",
+                "Chana - onion",
                 "Pepper rasam",
-                "Tamarind rice",
-                "Gulab jamun",
+                "Veg pulao",
+                "Motichoor laddu",
                 "Fresh coriander with dahi",
                 "Rice",
                 "Buttermilk",
                 "Papad/fryums (2/3 types alternating)",
-                "Instant pickle",
-                "Green salad (cucumber/beetroor+chilli+tomato+onion+lemon+carrot)"
+                "Fresh chutneys",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ]
         },
         "Wednesday": {
             "Breakfast": [
                 "Vada",
-                "Pongal",
+                "Daliya",
                 "Sambar and peanut chutney",
-                "Tomato chutney",
+                "Ginger chutney",
                 "Bournvita",
                 "Sprouts",
                 "Milk",
@@ -172,16 +173,16 @@
                 "Ghee",
                 "Plain roti",
                 "Rajma",
-                "Kerala sambar",
-                "Red pumkin curry",
-                "Aloo-beans",
-                "Guava",
+                "Tamilnadu sambar",
+                "Gobi",
+                "Parwal-alu",
+                "Papaya",
                 "Gongura",
                 "Rice",
                 "100ml curd",
                 "Papad/fryums (2/3 types alternating)",
-                "Fresh chutney",
-                "Green salad (cucumber/beetroot+chilli+tomato+onion+lemon+carrot)"
+                "Instant pickles",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ],
             "Snacks": [
                 "Plain tea",
@@ -192,22 +193,25 @@
             "Dinner": [
                 "Ghee",
                 "Plain roti",
-                "Lasooni dal tadka",
+                "Dal tadka",
                 "Snakeguard",
-                "Egg curry (1)/ paneer makhani",
+                "Egg curry (1)/ methi malai paneer",
                 "Tomato rasam",
                 "Boondi raita (buttermilk replacement)",
-                "Roasted chanadal",
+                "Mirchi ka thecha",
                 "Rice",
                 "Buttermilk",
                 "Papad/fryums (2/3 types alternating)",
-                "Instant pickle",
-                "Green salad (cucumber/beetroor+chilli+tomato+onion+lemon+carrot)"
+                "Fresh chutneys",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ]
         },
         "Thursday": {
             "Breakfast": [
-                "Besan cheela (onions + tomato + green chilly + other spices) + dhaniya chutney + tomato sauce + mint chutney",
+                "Uthappam (with onions, carrot)",
+                "Peanut chutney",
+                "Sambar",
+                "Kobbari podi",
                 "Boost",
                 "Boiled green gram with tadka",
                 "Milk",
@@ -222,14 +226,14 @@
                 "Plain roti",
                 "Dal fry",
                 "Drum stick sambar",
-                "Corn palak",
-                "Brinjal capsicum fry",
+                "Kadai veg",
+                "Ridge guard (dry)",
                 "Mango/avakay",
                 "Rice",
                 "100ml curd",
                 "Papad/fryums (2/3 types alternating)",
-                "Fresh chutney",
-                "Green salad (cucumber/beetroot+chilli+tomato+onion+lemon+carrot)"
+                "Instant pickles",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ],
             "Snacks": [
                 "Plain tea",
@@ -240,26 +244,27 @@
             "Dinner": [
                 "Ghee",
                 "Plain roti",
-                "Tomato dal",
-                "Chana - onion (dry)",
-                "Veg manchurian (semi dry)",
-                "Ginger rasam",
-                "Veg fried rice",
-                "Poha payasam (semi-solid)",
+                "Gongura dal",
+                "Cabbage curry (dry)",
+                "Mix-veg in hot garlic sauce",
+                "Pappu charu",
+                "Schezwan fried rice",
+                "Balushai",
                 "Capsicum garlic chutney",
                 "Rice",
                 "Buttermilk",
                 "Papad/fryums (2/3 types alternating)",
-                "Instant pickle",
-                "Green salad (cucumber/beetroor+chilli+tomato+onion+lemon+carrot)"
+                "Fresh chutneys",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ]
         },
         "Friday": {
             "Breakfast": [
-                "Punugulu",
-                "Tomato-chilly chutney",
-                "Upma",
-                "Peanut chutney",
+                "Mysore bhaji",
+                "Mint chutney",
+                "Poha (",
+                "Sev) with ussal",
+                "Groundnut chutney",
                 "Horlicks (classic)",
                 "Boiled corn",
                 "Milk",
@@ -274,15 +279,15 @@
                 "Plain roti",
                 "Palak dal",
                 "Mixed veg sambar",
-                "Plain alu kurma",
+                "Dum aloo curry (bengali style)",
                 "Raw banana fry",
                 "Fruit salad (with seasonal fruits)",
                 "Redchilly",
                 "Rice",
                 "100ml curd",
                 "Papad/fryums (2/3 types alternating)",
-                "Fresh chutney",
-                "Green salad (cucumber/beetroot+chilli+tomato+onion+lemon+carrot)"
+                "Instant pickles",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ],
             "Snacks": [
                 "Plain tea",
@@ -293,26 +298,26 @@
             "Dinner": [
                 "Ghee",
                 "Plain roti",
-                "Channa dal fry",
-                "Cluster beans",
-                "Bolied egg fry (1)  /  shahi paneer",
-                "Pappu charu",
+                "Tomato dal",
+                "Bitterguard fry",
+                "Bolied egg fry(1)/ kadai paneer",
+                "Ginger rasam",
                 "Jeera mint raita (buttermilk replacement)",
-                "Mirchi ka thecha",
+                "Roasted chanadal",
                 "Rice",
                 "Buttermilk",
                 "Papad/fryums (2/3 types alternating)",
-                "Instant pickle",
-                "Green salad (cucumber/beetroor+chilli+tomato+onion+lemon+carrot)"
+                "Fresh chutneys",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ]
         },
         "Saturday": {
             "Breakfast": [
                 "Masala dosa",
-                "Peanut chutney",
+                "Peanut chutney (*)",
                 "Sambar",
                 "Tomato chutney",
-                "Coconut chutney (*)",
+                "Coconut chutney",
                 "Bournvita",
                 "Boiled chana with tadka",
                 "Milk",
@@ -327,15 +332,15 @@
                 "Plain roti",
                 "Moong dal",
                 "Kara kulambu",
-                "Turai chana",
+                "Loki chana",
                 "Aloo chokha",
-                "Curd rice (add-on fried green chilly)",
+                "Jeera rice",
                 "Ginger",
                 "Rice",
                 "100ml curd",
                 "Papad/fryums (2/3 types alternating)",
-                "Fresh chutney",
-                "Green salad (cucumber/beetroot+chilli+tomato+onion+lemon+carrot)"
+                "Instant pickles",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ],
             "Snacks": [
                 "Plain tea",
@@ -346,24 +351,24 @@
             "Dinner": [
                 "--",
                 "Totakura dal",
-                "Vadi curry",
+                "Gobi shimla mirch",
                 "Chole",
-                "Ulavacharu",
-                "Bhatura",
-                "Coconut laddu (with gud)",
+                "Pepper rasam",
+                "Palak poori / methi poori (alternating)",
+                "Ghee jalebi",
                 "Curry leaves",
                 "Rice",
                 "Buttermilk",
                 "Papad/fryums (2/3 types alternating)",
-                "Instant pickle",
-                "Green salad (cucumber/beetroor+chilli+tomato+onion+lemon+carrot)"
+                "Fresh chutneys",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ]
         }
     },
     "UDH": {
         "Sunday": {
             "Breakfast": [
-                "Aloo paratha",
+                "(mix veg / methi ) paratha",
                 "Pudina chutney",
                 "Curd",
                 "Butter (limited quantity)",
@@ -381,15 +386,15 @@
                 "Ghee",
                 "Plain roti",
                 "Masoor dal",
-                "Radish sambar",
+                "Kerala onion sambar",
                 "Kadi pakoda",
-                "Tindora fry",
+                "Aloo-methi",
                 "Gongura",
                 "Rice",
                 "100ml curd",
                 "Papad/fryums (2/3 types alternating)",
-                "Fresh chutney",
-                "Green salad (cucumber/beetroot+chilli+tomato+onion+lemon+carrot)"
+                "Instant pickles",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ],
             "Snacks": [
                 "Plain tea",
@@ -399,75 +404,25 @@
                 "Plain roti",
                 "Rajma",
                 "Mirch ka salan (add-on for biryani)",
-                "Mix-veg kadai",
+                "Veg korma",
                 "Lemon coriander rasam",
-                "Chicken/paneer dum  biryani   (200gm chicken/100gm paneer)",
+                "Chicken/paneer dum   biryani   (200gm chicken/100gm paneer)",
                 "Onion raita",
                 "Gongura-green chilly",
                 "Rice",
                 "Buttermilk",
                 "Papad/fryums (2/3 types alternating)",
-                "Instant pickle",
-                "Green salad (cucumber/beetroor+chilli+tomato+onion+lemon+carrot)"
+                "Fresh chutneys",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ]
         },
         "Monday": {
             "Breakfast": [
-                "Ragi idli",
-                "Plain idli",
-                "Peanut chutney &   sambar",
+                "Fried idli",
+                "Idli",
+                "Coconut chutney  sambar",
                 "Ginger chutney",
-                "Kandi podi",
-                "Boost",
-                "Boiled chana",
-                "Milk",
-                "Tea & coffee",
-                "Bread",
-                "Jam & amul butter",
-                "50 gms of (boiled chana/ peanuts/ sprouts) and 25gms of (corn Flakes/oats)",
-                "1 boiled egg (except on wed)  / single egg omelet (only on wed) / banana"
-            ],
-            "Lunch": [
-                "Ghee",
-                "Plain roti",
-                "Dal makani",
-                "Mor kulambu",
-                "Bhindi",
-                "Parwal-alu",
-                "Orange",
-                "Mango/avakay",
-                "Rice",
-                "100ml curd",
-                "Papad/fryums (2/3 types alternating)",
-                "Fresh chutney",
-                "Green salad (cucumber/beetroot+chilli+tomato+onion+lemon+carrot)"
-            ],
-            "Snacks": [
-                "Plain tea",
-                "Elaichi tea",
-                "Plain tea",
-                "Ginger tea"
-            ],
-            "Dinner": [
-                "Ghee",
-                "Plain roti",
-                "Dal panchmahal",
-                "Soya chilly (dry)",
-                "Lobia (black eyed peas)",
-                "Drumstick rasam",
-                "Lassi  (buttermilk replacement)",
-                "Tomato",
-                "Rice",
-                "Buttermilk",
-                "Papad/fryums (2/3 types alternating)",
-                "Instant pickle",
-                "Green salad (cucumber/beetroor+chilli+tomato+onion+lemon+carrot)"
-            ]
-        },
-        "Tuesday": {
-            "Breakfast": [
-                "Poori",
-                "Aloo white chana",
+                "Palli podi",
                 "Horlicks (classic)",
                 "Boiled green gram",
                 "Milk",
@@ -480,16 +435,67 @@
             "Lunch": [
                 "Ghee",
                 "Plain roti",
-                "Dal tadka",
-                "Besan sambar",
-                "Malai / hariyali kofta (alternation)",
-                "Thotakura fry (with onions, green chilly, garlic)",
+                "Dal makani",
+                "Mor kulambu",
+                "Fresh green matar - alu",
+                "Simple bhindi fry",
+                "Orange",
+                "Mango/avakay",
+                "Rice",
+                "100ml curd",
+                "Papad/fryums (2/3 types alternating)",
+                "Instant pickles",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
+            ],
+            "Snacks": [
+                "Plain tea",
+                "Elaichi tea",
+                "Plain tea",
+                "Ginger tea"
+            ],
+            "Dinner": [
+                "Ghee",
+                "Plain roti",
+                "Channa dal fry",
+                "Soya bean fry",
+                "Lobia (black eyed peas)",
+                "Drumstick rasam",
+                "Lassi  (buttermilk replacement)",
+                "Tomato",
+                "Rice",
+                "Buttermilk",
+                "Papad/fryums (2/3 types alternating)",
+                "Fresh chutneys",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
+            ]
+        },
+        "Tuesday": {
+            "Breakfast": [
+                "Poori",
+                "White peas curry",
+                "Addon(onions)",
+                "Boost",
+                "Boiled chana",
+                "Milk",
+                "Tea & coffee",
+                "Bread",
+                "Jam & amul butter",
+                "50 gms of (boiled chana/ peanuts/ sprouts) and 25gms of (corn Flakes/oats)",
+                "1 boiled egg (except on wed)  / single egg omelet (only on wed) / banana"
+            ],
+            "Lunch": [
+                "Ghee",
+                "Plain roti",
+                "Lasooni dal tadka",
+                "Radish sambar",
+                "Keerai kootu",
+                "Aloo 65",
                 "Ginger",
                 "Rice",
                 "100ml curd",
                 "Papad/fryums (2/3 types alternating)",
-                "Fresh chutney",
-                "Green salad (cucumber/beetroot+chilli+tomato+onion+lemon+carrot)"
+                "Instant pickles",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ],
             "Snacks": [
                 "Plain tea",
@@ -500,26 +506,26 @@
             "Dinner": [
                 "Ghee",
                 "Plain roti",
-                "Gongura dal",
-                "Bitterguard fry",
-                "Alu palak",
+                "Dal panchmahal",
+                "Aloo methi",
+                "Chana - onion",
                 "Pepper rasam",
-                "Tamarind rice",
-                "Gulab jamun",
+                "Veg pulao",
+                "Motichoor laddu",
                 "Fresh coriander with dahi",
                 "Rice",
                 "Buttermilk",
                 "Papad/fryums (2/3 types alternating)",
-                "Instant pickle",
-                "Green salad (cucumber/beetroor+chilli+tomato+onion+lemon+carrot)"
+                "Fresh chutneys",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ]
         },
         "Wednesday": {
             "Breakfast": [
                 "Vada",
-                "Pongal",
+                "Daliya",
                 "Sambar and peanut chutney",
-                "Tomato chutney",
+                "Ginger chutney",
                 "Bournvita",
                 "Sprouts",
                 "Milk",
@@ -533,16 +539,16 @@
                 "Ghee",
                 "Plain roti",
                 "Rajma",
-                "Kerala sambar",
-                "Red pumkin curry",
-                "Aloo-beans",
-                "Guava",
+                "Tamilnadu sambar",
+                "Gobi",
+                "Parwal-alu",
+                "Papaya",
                 "Gongura",
                 "Rice",
                 "100ml curd",
                 "Papad/fryums (2/3 types alternating)",
-                "Fresh chutney",
-                "Green salad (cucumber/beetroot+chilli+tomato+onion+lemon+carrot)"
+                "Instant pickles",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ],
             "Snacks": [
                 "Plain tea",
@@ -553,22 +559,25 @@
             "Dinner": [
                 "Ghee",
                 "Plain roti",
-                "Lasooni dal tadka",
+                "Dal tadka",
                 "Snakeguard",
-                "Egg curry (1)/ paneer makhani",
+                "Egg curry (1)/ methi malai paneer",
                 "Tomato rasam",
                 "Boondi raita (buttermilk replacement)",
-                "Roasted chanadal",
+                "Mirchi ka thecha",
                 "Rice",
                 "Buttermilk",
                 "Papad/fryums (2/3 types alternating)",
-                "Instant pickle",
-                "Green salad (cucumber/beetroor+chilli+tomato+onion+lemon+carrot)"
+                "Fresh chutneys",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ]
         },
         "Thursday": {
             "Breakfast": [
-                "Besan cheela (onions + tomato + green chilly + other spices) + dhaniya chutney + tomato sauce + mint chutney",
+                "Uthappam (with onions, carrot)",
+                "Peanut chutney",
+                "Sambar",
+                "Kobbari podi",
                 "Boost",
                 "Boiled green gram with tadka",
                 "Milk",
@@ -583,14 +592,14 @@
                 "Plain roti",
                 "Dal fry",
                 "Drum stick sambar",
-                "Corn palak",
-                "Brinjal capsicum fry",
+                "Kadai veg",
+                "Ridge guard (dry)",
                 "Mango/avakay",
                 "Rice",
                 "100ml curd",
                 "Papad/fryums (2/3 types alternating)",
-                "Fresh chutney",
-                "Green salad (cucumber/beetroot+chilli+tomato+onion+lemon+carrot)"
+                "Instant pickles",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ],
             "Snacks": [
                 "Plain tea",
@@ -601,26 +610,27 @@
             "Dinner": [
                 "Ghee",
                 "Plain roti",
-                "Tomato dal",
-                "Chana - onion (dry)",
-                "Veg manchurian (semi dry)",
-                "Ginger rasam",
-                "Veg fried rice",
-                "Poha payasam (semi-solid)",
+                "Gongura dal",
+                "Cabbage curry (dry)",
+                "Mix-veg in hot garlic sauce",
+                "Pappu charu",
+                "Schezwan fried rice",
+                "Balushai",
                 "Capsicum garlic chutney",
                 "Rice",
                 "Buttermilk",
                 "Papad/fryums (2/3 types alternating)",
-                "Instant pickle",
-                "Green salad (cucumber/beetroor+chilli+tomato+onion+lemon+carrot)"
+                "Fresh chutneys",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ]
         },
         "Friday": {
             "Breakfast": [
-                "Punugulu",
-                "Tomato-chilly chutney",
-                "Upma",
-                "Peanut chutney",
+                "Mysore bhaji",
+                "Mint chutney",
+                "Poha (",
+                "Sev) with ussal",
+                "Groundnut chutney",
                 "Horlicks (classic)",
                 "Boiled corn",
                 "Milk",
@@ -635,15 +645,15 @@
                 "Plain roti",
                 "Palak dal",
                 "Mixed veg sambar",
-                "Plain alu kurma",
+                "Dum aloo curry (bengali style)",
                 "Raw banana fry",
                 "Fruit salad (with seasonal fruits)",
                 "Redchilly",
                 "Rice",
                 "100ml curd",
                 "Papad/fryums (2/3 types alternating)",
-                "Fresh chutney",
-                "Green salad (cucumber/beetroot+chilli+tomato+onion+lemon+carrot)"
+                "Instant pickles",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ],
             "Snacks": [
                 "Plain tea",
@@ -654,26 +664,26 @@
             "Dinner": [
                 "Ghee",
                 "Plain roti",
-                "Channa dal fry",
-                "Cluster beans",
-                "Bolied egg fry (1)  /  shahi paneer",
-                "Pappu charu",
+                "Tomato dal",
+                "Bitterguard fry",
+                "Bolied egg fry(1)/ kadai paneer",
+                "Ginger rasam",
                 "Jeera mint raita (buttermilk replacement)",
-                "Mirchi ka thecha",
+                "Roasted chanadal",
                 "Rice",
                 "Buttermilk",
                 "Papad/fryums (2/3 types alternating)",
-                "Instant pickle",
-                "Green salad (cucumber/beetroor+chilli+tomato+onion+lemon+carrot)"
+                "Fresh chutneys",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ]
         },
         "Saturday": {
             "Breakfast": [
                 "Masala dosa",
-                "Peanut chutney",
+                "Peanut chutney (*)",
                 "Sambar",
                 "Tomato chutney",
-                "Coconut chutney (*)",
+                "Coconut chutney",
                 "Bournvita",
                 "Boiled chana with tadka",
                 "Milk",
@@ -688,15 +698,15 @@
                 "Plain roti",
                 "Moong dal",
                 "Kara kulambu",
-                "Turai chana",
+                "Loki chana",
                 "Aloo chokha",
-                "Curd rice (add-on fried green chilly)",
+                "Jeera rice",
                 "Ginger",
                 "Rice",
                 "100ml curd",
                 "Papad/fryums (2/3 types alternating)",
-                "Fresh chutney",
-                "Green salad (cucumber/beetroot+chilli+tomato+onion+lemon+carrot)"
+                "Instant pickles",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ],
             "Snacks": [
                 "Plain tea",
@@ -707,17 +717,17 @@
             "Dinner": [
                 "--",
                 "Totakura dal",
-                "Vadi curry",
+                "Gobi shimla mirch",
                 "Chole",
-                "Ulavacharu",
-                "Bhatura",
-                "Coconut laddu (with gud)",
+                "Pepper rasam",
+                "Palak poori / methi poori (alternating)",
+                "Ghee jalebi",
                 "Curry leaves",
                 "Rice",
                 "Buttermilk",
                 "Papad/fryums (2/3 types alternating)",
-                "Instant pickle",
-                "Green salad (cucumber/beetroor+chilli+tomato+onion+lemon+carrot)"
+                "Fresh chutneys",
+                "Green salad (cucumber/beetroot + chilli + tomato + onion + lemon + carrot)"
             ]
         }
     },
