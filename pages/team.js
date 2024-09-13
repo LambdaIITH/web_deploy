@@ -217,6 +217,10 @@ const people = [
   ],
   [
     {
+      name: "Saran Konala",
+      githubUsername: "Saran416",
+    },
+    {
       name: "To be announced",
       githubUsername: "",
     },
