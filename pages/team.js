@@ -217,12 +217,104 @@ const people = [
   ],
   [
     {
-      name: "To be announced",
-      githubUsername: "",
+      name: "Ankush Singh",
+      githubUsername: "Walker0710" 
     },
     {
-      name: "To be announced",
-      githubUsername: "",
+      name: "Anusha Kumaresan",
+      githubUsername: "AnushaK6" 
+    },
+    {
+      name: "Aryan Agarwal",
+      githubUsername: "AryanAg2701" 
+    },
+    { 
+      name: "Ashwin Agarwal", 
+      githubUsername: "ashwinagrl" 
+    },
+    { 
+      name: "Avyaaz", 
+      githubUsername: "Avyaaz18" 
+    },
+    { 
+      name: "Bhumin Hirpara", 
+      githubUsername: "BhuminHirpara22" 
+    },
+    { 
+      name: "Chaitanya Nemmani", 
+      githubUsername: "Ceilingsz" 
+    },
+    { 
+      name: "Deekshith Patel", 
+      githubUsername: "deekshithpatel10" 
+    },
+    { 
+      name: "Donavalli Sai Durga Rishi", 
+      githubUsername: "drshvik" 
+    },
+    { 
+      name: "Gopi Charan Reddy", 
+      githubUsername: "wanderer1011" 
+    },
+    { 
+      name: "K Sathwik", 
+      githubUsername: "siddu0660" 
+    },
+    { 
+      name: "Karthik Gnana Ezhil S", 
+      githubUsername: "skgezhil" 
+    },
+    { 
+      name: "Karyampudi Meghana Sai", 
+      githubUsername: "kmeghanasai" 
+    },
+    { 
+      name: "Krishna Teja", 
+      githubUsername: "krishnateja2314" 
+    },
+    { 
+      name: "Lakshdeep Singh", 
+      githubUsername: "lakshsidhu04" 
+    },
+    { 
+      name: "Mohammed Abdul Muqeeth", 
+      githubUsername: "muqeeth26832" 
+    },
+    { 
+      name: "Nishi Baranwal", 
+      githubUsername: "NishiB137" 
+    },
+    { 
+      name: "Omkar Khilari", 
+      githubUsername: "OmkarKhilari" 
+    },
+    { 
+      name: "Pranjal Prajapati", 
+      githubUsername: "Pranjal095"
+    },
+    { 
+      name: "Samhitha", 
+      githubUsername: "Samhitha1212" 
+    },
+    { 
+      name: "Saran Konala", 
+      githubUsername: "Saran416" 
+    },
+    { 
+      name: "Shravan Badgujar", 
+      githubUsername: "ShravanIITHCse" 
+    },
+    { 
+      name: "V S Susi Krishna", 
+      githubUsername: "Susikrishna" 
+    },
+    {
+      name: "Velvadapu Naga Venkata Ganeswar",
+      githubUsername: "ganeswar-velvadapu",
+    },
+    { 
+      name: "Vindhya Paidala", 
+      githubUsername: "VindhyaP312" 
     },
   ],
 ];
